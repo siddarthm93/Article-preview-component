@@ -47,7 +47,7 @@ main {
 }
 
 .card-header {
-  background-image: url(/images/drawers.jpg);
+  background-image: url(../../images/drawers.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
